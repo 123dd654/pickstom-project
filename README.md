@@ -102,7 +102,7 @@ alt="스케치" width=500 height=400>
 
 ### 11. 도메인 및 사이트 제목
 
-<img src="https://github.com/123dd654/pickstom-project/assets/161431124/558e400d-0478-4b5d-a7fc-e413237bd637" alt="사이트 제목">
+<img src="https://github.com/123dd654/pickstom-project/assets/161431124/558e400d-0478-4b5d-a7fc-e413237bd637" alt="사이트 제목" width=400 height=200>
 
 도메인은 pickstom.com으로 고르다의 ‘pick’와 custom의 stom을 합친 단어로
 사용자가 원하는 디자인을 선택해 커스텀이 가능하다는 의미로 pickstom으로 결정하게 되었습니다. 
