@@ -42,7 +42,10 @@
 
 ### 07. 디자인 컨셉
 
+[벤치마킹 사이트]
 <img src="https://github.com/123dd654/pickstom-project/assets/161431124/9afa759c-c3e1-4a6e-b8d1-37aa459a35f1" alt="디자인컨셉" width=500 height=300>
+[메인페이지]
+<img src="https://github.com/123dd654/pickstom-project/assets/161431124/d3e1f7cc-1494-424f-b624-29f960fd5f12" alt="메인페이지" width=500 height=300>
 
 저희 사이트의 디자인 컨셉은 깔끔하고 현대적인 미니멀리즘을 기반으로 합니다. 각각의 컨텐츠 블록은 고대비 흑백 사진으로 구성되어 강아지의 개성과 스타일을 강조하며, 이는 사용자들이 자신의 강아지를 위한 맞춤형 의류를 상상하게 만듭니다. 큰 텍스트와 명확한 콜 투 액션 버튼은 사용자 인터페이스를 직관적으로 만들어, 방문자가 쉽게 탐색하고 원하는 정보를 찾을 수 있도록 돕습니다. 전체적으로 사이트는 트렌디하고 매력적인 온라인 맞춤형 강아지 의류 쇼핑 경험을 제공하는 데 중점을 두고 있습니다.
 
@@ -98,7 +101,9 @@ alt="스케치" width=500 height=400>
 
 ### 11. 도메인 및 사이트 제목
 
-<img src="https://github.com/123dd654/project01/assets/161431124/0efc9c7f-0e81-40ab-8085-27d90ca4f333" alt="사이트 제목">
+<img src="https://github.com/123dd654/pickstom-project/assets/161431124/971f1eaf-d236-4067-ba93-cc119e5828c0" alt="사이트 제목">
 
 도메인은 pickstom.com으로 고르다의 ‘pick’와 custom의 stom을 합친 단어로
 사용자가 원하는 디자인을 선택해 커스텀이 가능하다는 의미로 pickstom으로 결정하게 되었습니다. 
+
+
