@@ -94,7 +94,7 @@ alt="벤치마킹">
 * 개인정보 수집 및 이용 방침 안내
 * 개인정보 보호를 위한 정책 설명
 <img src="https://github.com/123dd654/pickstom-project/assets/161431124/affbbead-08bc-4b31-9265-6b2e016b3312"
-alt="스케치">
+alt="스케치" width=500 height=400>
 
 ### 11. 도메인 및 사이트 제목
 
